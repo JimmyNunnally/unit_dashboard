@@ -1,2 +1,5 @@
 fastbook
 voila
+branca
+folium
+geopandas
